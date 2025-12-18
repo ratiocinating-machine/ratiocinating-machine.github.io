@@ -1,2 +1,2 @@
-### Reasoning Machine
-A Machine that reasons.
+### Ratiocinating Machine
+A Machine that ratiocinates.
