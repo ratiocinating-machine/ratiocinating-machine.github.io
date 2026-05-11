@@ -9,12 +9,12 @@ title: Ratiocinating Machine
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Ratiocinating-Machine (meta)](https://ratiocinating-rachine.github.io/meta/)
+[Ratiocinating-Machine (meta)](https://ratiocinating-machine.github.io/meta/)
 
-[Ratiocinating-Machine (oaio)](https://ratiocinating-rachine.github.io/oaio/)
+[Ratiocinating-Machine (oaio)](https://ratiocinating-machine.github.io/oaio/)
 
-[Ratiocinating-Machine (grok)](https://ratiocinating-rachine.github.io/grok/)
+[Ratiocinating-Machine (grok)](https://ratiocinating-machine.github.io/grok/)
 
-[Ratiocinating-Machine (depsekrp)](https://ratiocinating-rachine.github.io/depsekrp/)
+[Ratiocinating-Machine (depsekrp)](https://ratiocinating-machine.github.io/depsekrp/)
 
-[Ratiocinating-Machine (gemini)](https://ratiocinating-rachine.github.io/gemini/)
+[Ratiocinating-Machine (gemini)](https://ratiocinating-machine.github.io/gemini/)
